@@ -24,8 +24,8 @@
 /**
  * EXAMPLE USAGE
  * 
- * $compressor = new compressor('hoverIntent.js');
- * print '<script type="text/javascript" src="'.$compressor->cacheName.'"></script>';
+ * $compressor = new compressor('main.js');
+ * print '<script async type="text/javascript" src="'.$compressor->cacheName.'"></script>';
  */
  
  
